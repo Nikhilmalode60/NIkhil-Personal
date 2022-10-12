@@ -72,7 +72,7 @@ public class NewTest {
 		
 		FileHandler.copy(src, dest);
 		
-		
+		driver.close();
 	}
 
 }
